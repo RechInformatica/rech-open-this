@@ -1,7 +1,7 @@
 {
   "name": "rech-open-this",
   "main": "./lib/rech-open-this",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Open files under the cursor",
   "keywords": [
     "open",
