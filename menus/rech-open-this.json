@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open this",
+        "command": "rech-open-this:same-pane"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Open this",
+          "submenu": [
+            {
+              "label": "On the same pane",
+              "command": "rech-open-this:same-pane"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
