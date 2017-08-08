@@ -15,7 +15,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "rech-atom-commons": "git+https://github.com/RechInformatica/rech-atom-commons.git"
+    "rech-atom-commons": "^0.1.1"
   },
   "consumedServices": {
     "rech-open-this.service": {
